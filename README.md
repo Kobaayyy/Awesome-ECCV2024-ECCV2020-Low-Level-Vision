@@ -132,7 +132,7 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Robust and On-the-fly Dataset Denoising for Image Classification
 ### Spatial-Adaptive Network for Single Image Denoising
 
-<a name=" 6.图像恢复"></a>
+<a name="6.图像恢复"></a>
 # 6.图像恢复（Image Restoration）
 ### Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation
 - Paper：[https://arxiv.org/abs/2003.13659](https://arxiv.org/abs/2003.13659)
@@ -146,20 +146,20 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Learning Enriched Features for Real Image Restoration and Enhancement
 ### Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration
 
-<a name=" 7.图像增强"></a>
+<a name="7.图像增强"></a>
 # 7.图像增强（Image Enhancement）
 ### URIE: Universal Image Enhancement for Visual Recognition in the Wild
 ### Early Exit Or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images
 ### Global and Local Enhancement Networks For Paired and Unpaired Image Enhancement
 ### PieNet: Personalized Image Enhancement Network
 
-<a name=" 8.图像去摩尔纹"></a>
+<a name="8.图像去摩尔纹"></a>
 # 8.图像去摩尔纹（Image Demoireing）
 ### Wavelet-Based Dual-Branch Neural Network for Image Demoireing
 - Paper：[https://arxiv.org/abs/2007.07173](https://arxiv.org/abs/2007.07173)
 - Analysis：[#每日五分钟一读# Image Demoireing](https://zhuanlan.zhihu.com/p/164778442)
 
-<a name=" 9.图像修复"></a>
+<a name="9.图像修复"></a>
 # 9.图像修复（Inpainting）
 ### Learning Joint Spatial-Temporal Transformations for Video Inpainting
 - Paper：[https://arxiv.org/abs/2007.10247](https://arxiv.org/abs/2007.10247)
@@ -177,7 +177,7 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### VCNet: A Robust Approach to Blind Image Inpainting
 ### Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes
 
-<a name=" 10.图像质量评价"></a>
+<a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
 ### GIQA: Generated Image Quality Assessment
 ### PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
@@ -185,4 +185,5 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 
 # 参考
 <div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;"><a href="https://blog.csdn.net/yamengxi/article/details/107463400" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[1] ECCV 2020 超分辨率方向上接收文章总结</a><br><a href="https://blog.csdn.net/yyywxk/article/details/107116197" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[2] ECCV 2020 超分辨率方向上接收文章总结（持续更新）持续更新</a><br><a href="https://zhuanlan.zhihu.com/p/157115310" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[3] ECCV 2020 | 空间-角度信息交互的光场图像超分辨，性能优异代码已开源</a><br><a href="https://github.com/amusi/ECCV2020-Code" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[4] ECCV2020-Code</a><br><a href="https://zhuanlan.zhihu.com/p/157789166?from_voters_page=true" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[5] ECCV 2020 | 图匠数据、华中师范提出低质退化文本识别算法PlugNet</a><br><a href="https://zhuanlan.zhihu.com/p/156893265" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[6] ECCV2020(Oral) Rethinking image inpainting</a><br><a href="https://zhuanlan.zhihu.com/p/157569669" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[7] ECCV 2020 Oral 论文汇总！</a><br><a href="https://zhuanlan.zhihu.com/p/164778442" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[8] #每日五分钟一读# Image Demoireing</a></p></div>
+
 <font color=red size=5>码字不易，如果您觉得有帮助，欢迎star~~</font>
