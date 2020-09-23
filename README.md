@@ -35,20 +35,24 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Paper：[https://arxiv.org/abs/2006.14200?context=eess](https://arxiv.org/abs/2006.14200?context=eess)
 - Code：[https://github.com/andreas128/SRFlow](https://github.com/andreas128/SRFlow)
 ### Single Image Super-Resolution via a Holistic Attention Network
+- Paper：[https://arxiv.org/abs/2008.08767](https://arxiv.org/abs/2008.08767)
+- Code：[https://github.com/wwlCape/HAN](https://github.com/wwlCape/HAN)
 - Analysis：[ECCV2020最新图像超分辨重建文章](https://zhuanlan.zhihu.com/p/158083010)
 ### Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks
 - Paper：[https://arxiv.org/abs/2003.07119](https://arxiv.org/abs/2003.07119)
 - Code：[https://github.com/majedelhelou/SFM](https://github.com/majedelhelou/SFM)
 ### VarSR: Variational Super-Resolution Network for Very Low Resolution Images
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)
 ### Learning with Privileged Information for Efficient Image Super-Resolutionq
 - Paper：[https://arxiv.org/abs/2007.07524](https://arxiv.org/abs/2007.07524)
 - Code：[https://github.com/pkuxmq/Invertible-Image-Rescaling](https://github.com/pkuxmq/Invertible-Image-Rescaling)
 - Homepage：[https://cvlab.yonsei.ac.kr/projects/PISR/](https://cvlab.yonsei.ac.kr/projects/PISR/)
 ### Binarized Neural Network for Single Image Super Resolution
+- Paper：[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)
 ## 视频超分辨率
 ### Across Scales & Across Dimensions: Temporal Super-Resolution using Deep Internal Learning
 - Paper：[https://arxiv.org/abs/2003.08872](https://arxiv.org/abs/2003.08872)
-- Code:
+- Code:[https://github.com/eyalnaor/DeepTemporalSR](https://github.com/eyalnaor/DeepTemporalSR)
 - Homepage：[http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/](http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/)
 - Analysis：
 ### MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution
@@ -73,10 +77,13 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Code：[https://github.com/danfenghong/ECCV2020_CUCaNet](https://github.com/danfenghong/ECCV2020_CUCaNet)
 ## 零样本超分辨率
 ### Zero-Shot Image Super-Resolution with Depth Guided Internal Degradation Learning
+- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf)
 ### Fast Adaptation to Super-Resolution Networks via Meta-Learning
 - Paper:[https://arxiv.org/abs/2001.02905v1](https://arxiv.org/abs/2001.02905v1)
+- Code:[https://github.com/parkseobin/MLSR](https://github.com/parkseobin/MLSR)
 ## 文本超分辨率
 ### PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
+- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf)
 - Analysis：[ECCV 2020 | 图匠数据、华中师范提出低质退化文本识别算法PlugNet](https://zhuanlan.zhihu.com/p/157789166?from_voters_page=true)
 ### Scene Text Image Super-Resolution in the Wild
 - Paper：[https://arxiv.org/abs/2005.03341v1](https://arxiv.org/abs/2005.03341v1)
@@ -90,10 +97,15 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Journey Towards Tiny Perceptual Super-Resolution
 - Paper:[https://arxiv.org/abs/2007.04356](https://arxiv.org/abs/2007.04356)
 ### LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block
+- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)
 ## 其他超分（暂存）
 ### Towards Content-independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation
+- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf)
 ### PAMS: Quantized Super-Resolution via Parameterized Max Scale
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf)
 ### Mining self-similarity: Label super-resolution with epitomic representations
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710528.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710528.pdf)
+- Code:[https://github.com/anthonymlortiz/epitomes_lsr](https://github.com/anthonymlortiz/epitomes_lsr)
 
 <a name="2.图像去雨"></a>
 # 2.图像去雨（Image Deraining）
