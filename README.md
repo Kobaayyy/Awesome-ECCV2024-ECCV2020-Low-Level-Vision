@@ -176,21 +176,37 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation
 - Paper：[https://arxiv.org/abs/2003.13659](https://arxiv.org/abs/2003.13659)
 - Code：[https://github.com/XingangPan/deep-generative-prior](https://github.com/XingangPan/deep-generative-prior)
-### PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
 ### Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580443.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580443.pdf)
 ### LIRA: Lifelong Image Restoration from Unknown Blended Distortions
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630596.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630596.pdf)
 ### Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650052.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650052.pdf)
+- Code：[https://github.com/hejingwenhejingwen/CResMD](https://github.com/hejingwenhejingwen/CResMD)
 ### Microscopy Image Restoration with Deep Wiener-Kolmogorov filters
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650188.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650188.pdf)
+- Code：[https://github.com/vpronina/DeepWienerRestoration/](https://github.com/vpronina/DeepWienerRestoration/)
 ### Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670239.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670239.pdf)
+- Code：[https://github.com/bruno-31/groupsc](https://github.com/bruno-31/groupsc)
 ### Learning Enriched Features for Real Image Restoration and Enhancement
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700494.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700494.pdf)
+- Code：[https://github.com/swz30/MIRNet](https://github.com/swz30/MIRNet)
 ### Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740307.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740307.pdf)
 
 <a name="7.图像增强"></a>
 # 7.图像增强（Image Enhancement）
 ### URIE: Universal Image Enhancement for Visual Recognition in the Wild
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540715.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540715.pdf)
+- Code：[https://github.com/taeyoungson/urie](https://github.com/taeyoungson/urie)
 ### Early Exit Or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610273.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610273.pdf)
+- Code：[https://github.com/RyanXingQL/RBQE](https://github.com/RyanXingQL/RBQE)
 ### Global and Local Enhancement Networks For Paired and Unpaired Image Enhancement
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700341.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700341.pdf)
 ### PieNet: Personalized Image Enhancement Network
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750375.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750375.pdf)
 
 <a name="8.图像去摩尔纹"></a>
 # 8.图像去摩尔纹（Image Demoireing）
@@ -218,6 +234,8 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 
 <a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
+### PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
+- Paper:[https://arxiv.org/pdf/2007.12142.pdf](https://arxiv.org/pdf/2007.12142.pdf)
 ### GIQA: Generated Image Quality Assessment
 ### PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
 <font color=red size=5>持续更新~</font>
