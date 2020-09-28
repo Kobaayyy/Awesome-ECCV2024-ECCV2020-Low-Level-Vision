@@ -225,19 +225,28 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Analysis：[ECCV2020(Oral) Rethinking image inpainting](https://zhuanlan.zhihu.com/p/156893265)
 ### High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
 - Paper：[https://arxiv.org/abs/2005.11742v1](https://arxiv.org/abs/2005.11742v1)
+- Homepage：[https://zengxianyu.github.io/iic/](https://zengxianyu.github.io/iic/)
 ### Short-Term and Long-Term Context Aggregation Network for Video Inpainting
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf)
 ### Learning Object Placement by Inpainting for Compositional Data Augmentation
-### High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf)
 ### DVI: Depth Guided Video Inpainting for Autonomous Driving
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf)
+- Code：[https://github.com/sibozhang/Depth-Guided-Inpainting](https://github.com/sibozhang/Depth-Guided-Inpainting)
 ### VCNet: A Robust Approach to Blind Image Inpainting
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf)
+- Code：[https://github.com/shepnerd/blindinpainting_vcnet](https://github.com/shepnerd/blindinpainting_vcnet)
 ### Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720681.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720681.pdf)
 
 <a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
 ### PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
 - Paper:[https://arxiv.org/pdf/2007.12142.pdf](https://arxiv.org/pdf/2007.12142.pdf)
 ### GIQA: Generated Image Quality Assessment
-### PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf)
+- Code：[https://github.com/cientgu/GIQA](https://github.com/cientgu/GIQA)
+
 <font color=red size=5>持续更新~</font>
 
 # 参考
