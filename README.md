@@ -26,7 +26,6 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Invertible Image Rescaling
 - Paper：[https://arxiv.org/abs/2005.05650](https://arxiv.org/abs/2005.05650)
 - Code：[https://github.com/pkuxmq/Invertible-Image-Rescaling](https://github.com/pkuxmq/Invertible-Image-Rescaling)
-- Homepage：
 - Analysis：[ECCV 2020 Oral | 可逆图像缩放：完美恢复降采样后的高清图片](https://zhuanlan.zhihu.com/p/150340687)
 ### Component Divide-and-Conquer for Real-World Image Super-Resolution
 - Paper：[https://arxiv.org/abs/2008.01928](https://arxiv.org/abs/2008.01928)
@@ -49,6 +48,8 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Homepage：[https://cvlab.yonsei.ac.kr/projects/PISR/](https://cvlab.yonsei.ac.kr/projects/PISR/)
 ### Binarized Neural Network for Single Image Super Resolution
 - Paper：[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)
+### Towards Content-independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation
+- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf)
 ## 视频超分辨率
 ### Across Scales & Across Dimensions: Temporal Super-Resolution using Deep Internal Learning
 - Paper：[https://arxiv.org/abs/2003.08872](https://arxiv.org/abs/2003.08872)
@@ -90,18 +91,14 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ## 绘画超分辨率
 ### Texture Hallucination for Large-Factor Painting Super-Resolution
 - Paper：[https://arxiv.org/abs/1912.00515?context=eess.IV](https://arxiv.org/abs/1912.00515?context=eess.IV)
-## 用于超分辨率的数据增广
-## 超分辨率用于语义分割
 ## 超分辨率模型压缩/轻量化
 ### Journey Towards Tiny Perceptual Super-Resolution
 - Paper:[https://arxiv.org/abs/2007.04356](https://arxiv.org/abs/2007.04356)
 ### LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block
 - Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)
-## 其他超分（暂存）
-### Towards Content-independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation
-- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700052.pdf)
 ### PAMS: Quantized Super-Resolution via Parameterized Max Scale
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf)
+## 标记超分
 ### Mining self-similarity: Label super-resolution with epitomic representations
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710528.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710528.pdf)
 - Code:[https://github.com/anthonymlortiz/epitomes_lsr](https://github.com/anthonymlortiz/epitomes_lsr)
