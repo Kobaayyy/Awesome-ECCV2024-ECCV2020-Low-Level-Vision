@@ -45,7 +45,7 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680426.pdf)
 ### Learning with Privileged Information for Efficient Image Super-Resolutionq
 - Paper：[https://arxiv.org/abs/2007.07524](https://arxiv.org/abs/2007.07524)
-- Code：[https://github.com/pkuxmq/Invertible-Image-Rescaling](https://github.com/pkuxmq/Invertible-Image-Rescaling)
+- Code：[https://github.com/cvlab-yonsei/PISR](https://github.com/cvlab-yonsei/PISR)
 - Homepage：[https://cvlab.yonsei.ac.kr/projects/PISR/](https://cvlab.yonsei.ac.kr/projects/PISR/)
 ### Binarized Neural Network for Single Image Super Resolution
 - Paper：[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490086.pdf)
@@ -64,7 +64,6 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ## 人脸超分辨率
 ### Face Super-Resolution Guided by 3D Facial Priors
 - Paper：[https://arxiv.org/abs/2007.09454v1](https://arxiv.org/abs/2007.09454v1)
-## 深度图超分辨率
 ## 光场图像超分辨率
 ### Spatial-Angular Interaction for Light Field Image Super-Resolution
 - Paper：[https://arxiv.org/abs/1912.07849](https://arxiv.org/abs/1912.07849)
