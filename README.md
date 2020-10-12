@@ -55,7 +55,6 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Paper：[https://arxiv.org/abs/2003.08872](https://arxiv.org/abs/2003.08872)
 - Code:[https://github.com/eyalnaor/DeepTemporalSR](https://github.com/eyalnaor/DeepTemporalSR)
 - Homepage：[http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/](http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/)
-- Analysis：
 ### MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution
 - Paper：[https://arxiv.org/abs/2007.11803v1](https://arxiv.org/abs/2007.11803v1)
 ### Video Super-Resolution with Recurrent Structure-Detail Network
