@@ -208,6 +208,8 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Wavelet-Based Dual-Branch Neural Network for Image Demoireing
 - Paper：[https://arxiv.org/abs/2007.07173](https://arxiv.org/abs/2007.07173)
 - Analysis：[#每日五分钟一读# Image Demoireing](https://zhuanlan.zhihu.com/p/164778442)
+### FHDe²Net: Full High Definition Demoireing Network
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670715.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670715.pdf)
 
 <a name="9.图像修复"></a>
 # 9.图像修复（Inpainting）
