@@ -189,6 +189,9 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Code：[https://github.com/swz30/MIRNet](https://github.com/swz30/MIRNet)
 ### Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740307.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740307.pdf)
+### Blind Face Restoration via Deep Multi-scale Component Dictionaries
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)
+- Code：[https://github.com/csxmli2016/DFDNet](https://github.com/csxmli2016/DFDNet)
 
 <a name="7.图像增强"></a>
 # 7.图像增强（Image Enhancement）
@@ -202,6 +205,12 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700341.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700341.pdf)
 ### PieNet: Personalized Image Enhancement Network
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750375.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750375.pdf)
+### Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf)
+- Code：[https://github.com/sjmoran/SIDGAN](https://github.com/sjmoran/SIDGAN)
+### Multi-level Wavelet-based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video
+- Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590392.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590392.pdf)
+- Code：[https://github.com/IceClear/MW-GAN](https://github.com/IceClear/MW-GAN)
 
 <a name="8.图像去摩尔纹"></a>
 # 8.图像去摩尔纹（Image Demoireing）
