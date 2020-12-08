@@ -114,6 +114,7 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 # 3.图像去雾（Image Dehazing）
 ### HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf)
+- Code:[https://github.com/huangzilingcv/HardGAN](https://github.com/huangzilingcv/HardGAN)
 ### Physics-based Feature Dehazing Networks
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)
 
