@@ -262,5 +262,4 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 <font color=red size=5>码字不易，如果您觉得有帮助，欢迎star~~</font>
 
 # 相关Low-Level-Vision整理
-- [Awesome-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2020-Low-Level-Vision)
-- [Awesome-CVPR2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-Low-Level-Vision)
+- [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
