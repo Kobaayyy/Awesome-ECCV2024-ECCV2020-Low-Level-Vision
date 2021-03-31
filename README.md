@@ -134,6 +134,7 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Code:[https://github.com/Dong1P/MTRNN](https://github.com/Dong1P/MTRNN)
 ### Learning Event-Driven Video Deblurring and Interpolation
 - Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)
+- Code：[https://github.com/Lynn0306/LEDVDI](https://github.com/Lynn0306/LEDVDI)
 ### Defocus Deblurring Using Dual-Pixel Data
 - Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550120.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550120.pdf)
 - Code:[https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)
@@ -261,7 +262,17 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 
 <a name="11.插帧"></a>
 # 11.插帧（Frame Interpolation）
-
+### Learning Event-Driven Video Deblurring and Interpolation
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)
+- Code：[https://github.com/Lynn0306/LEDVDI](https://github.com/Lynn0306/LEDVDI)
+### BMBC: Bilateral Motion Estimation with Bilateral Cost Volume for Video Interpolation
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590103.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590103.pdf)
+- Code：[https://github.com/JunHeum/BMBC](https://github.com/JunHeum/BMBC)
+### A Flexible Recurrent Residual Pyramid Network for Video Frame Interpolation
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700477.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700477.pdf)
+### All at Once: Temporally Adaptive Multi-Frame Interpolation with Advanced Motion Modeling
+- Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720103.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720103.pdf)
+- Code：[https://github.com/chi-chi-zx/all-at-once](https://github.com/chi-chi-zx/all-at-once)
 <a name="12.视频压缩"></a>
 # 12.视频/图像压缩（Video/Image Compression）
 <font color=red size=5>持续更新~</font>
