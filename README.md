@@ -19,6 +19,9 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - [8.图像去摩尔纹（Image Demoireing）](#8.图像去摩尔纹)
 - [9.图像修复（Inpainting）](#9.图像修复)
 - [10.图像质量评价（Image Quality Assessment）](#10.图像质量评价)
+- [11.插帧（Frame Interpolation）](#11.插帧)
+- [12.视频/图像压缩（Video/Image Compression）](#12.视频压缩)
+- [13.其他多任务](#13.其他)
 
 <a name="1.超分辨率"></a>
 # 1.超分辨率（Super-Resolution）
@@ -212,7 +215,9 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Multi-level Wavelet-based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590392.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590392.pdf)
 - Code：[https://github.com/IceClear/MW-GAN](https://github.com/IceClear/MW-GAN)
-
+### Conditional Sequential Modulation for Efficient Global Image Retouching
+- Paper:[http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580664.pdf](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580664.pdf)
+- Code：[https://github.com/hejingwenhejingwen/CSRNet)
 <a name="8.图像去摩尔纹"></a>
 # 8.图像去摩尔纹（Image Demoireing）
 ### Wavelet-Based Dual-Branch Neural Network for Image Demoireing
@@ -254,7 +259,15 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 - Paper：[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf)
 - Code：[https://github.com/cientgu/GIQA](https://github.com/cientgu/GIQA)
 
+<a name="11.插帧"></a>
+# 11.插帧（Frame Interpolation）
+
+<a name="12.视频压缩"></a>
+# 12.视频/图像压缩（Video/Image Compression）
 <font color=red size=5>持续更新~</font>
+
+<a name="13.其他"></a>
+# 13.其他多任务
 
 # 参考
 <div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;"><a href="https://blog.csdn.net/yamengxi/article/details/107463400" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[1] ECCV 2020 超分辨率方向上接收文章总结</a><br><a href="https://blog.csdn.net/yyywxk/article/details/107116197" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[2] ECCV 2020 超分辨率方向上接收文章总结（持续更新）持续更新</a><br><a href="https://zhuanlan.zhihu.com/p/157115310" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[3] ECCV 2020 | 空间-角度信息交互的光场图像超分辨，性能优异代码已开源</a><br><a href="https://github.com/amusi/ECCV2020-Code" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[4] ECCV2020-Code</a><br><a href="https://zhuanlan.zhihu.com/p/157789166?from_voters_page=true" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[5] ECCV 2020 | 图匠数据、华中师范提出低质退化文本识别算法PlugNet</a><br><a href="https://zhuanlan.zhihu.com/p/156893265" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[6] ECCV2020(Oral) Rethinking image inpainting</a><br><a href="https://zhuanlan.zhihu.com/p/157569669" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[7] ECCV 2020 Oral 论文汇总！</a><br><a href="https://zhuanlan.zhihu.com/p/164778442" style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration: none; color: rgb(30, 107, 184); overflow-wrap: break-word;">[8] #每日五分钟一读# Image Demoireing</a></p></div>
