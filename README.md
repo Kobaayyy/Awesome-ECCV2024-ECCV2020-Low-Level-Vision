@@ -197,7 +197,9 @@ A Collection of Papers and Codes for ECCV2020 Low Level Vision or Image Reconstr
 ### Blind Face Restoration via Deep Multi-scale Component Dictionaries
 - Paper:[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)
 - Code：[https://github.com/csxmli2016/DFDNet](https://github.com/csxmli2016/DFDNet)
-
+### Flow-edge Guided Video Completion
+- Paper:[https://arxiv.org/abs/2009.01835](https://arxiv.org/abs/2009.01835)
+- Code：[https://github.com/vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC)
 <a name="7.图像增强"></a>
 # 7.图像增强（Image Enhancement）
 ### URIE: Universal Image Enhancement for Visual Recognition in the Wild
