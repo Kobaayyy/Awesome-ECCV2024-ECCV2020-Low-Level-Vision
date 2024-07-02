@@ -11,9 +11,9 @@ A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
 **参考或转载请注明出处**
 
 # Awesome-ECCV2024-Low-Level-Vision
-- [Awesome-CVPR2024-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision/blob/master/ECCV2024.md)
+- [Awesome-ECCV2024-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision/blob/master/ECCV2024.md)
 # Awesome-ECCV2020-Low-Level-Vision
-- [Awesome-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision/blob/master/ECCV2020.md)
+- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision/blob/master/ECCV2020.md)
 
 
 # Related Collections(相关整理)
